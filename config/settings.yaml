@@ -1,0 +1,8 @@
+database:
+  url: "mysql://user:Passw0rd!@127.0.0.1:3306/app"
+  password: "Passw0rd!@"
+auth:
+  token: "ghp_FAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKEFAKE"
+  bearer: "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.FAKE.FAKE"
+aws:
+  access_key_id: "AKIAFAKEFAKEFAKEFAKEFA"
